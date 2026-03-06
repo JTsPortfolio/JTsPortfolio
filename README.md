@@ -1,7 +1,7 @@
 -  Hello, I’m Jayden Trujillo
 -  I’m interested in Cybersecurity, Risk Analysis, and Business 
 -  I’m currently learning CompTIA Network+ and CompTIA Linux+
--  How to reach me on my email jaydentrujillo223@gmail.com
+-  Reach out to me through my email jaydentrujillo223@gmail.com
 -  Pronouns: He/Him
 <!---
 JTsPortfolio/JTsPortfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
